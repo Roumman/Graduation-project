@@ -43,11 +43,7 @@
 ```bash
 git clone https://github.com/Roumman/Graduation-project
 ```
-2. Установите зависимости:
-```bash
-pip install -r requirements.txt
-```
-3. Создайте и заполните базу данных:
+2. Создайте и заполните базу данных:
 ```bash
 python scripts/populate_db.py
 ```
