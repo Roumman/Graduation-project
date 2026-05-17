@@ -72,5 +72,4 @@ bank-database-learning/
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/bank-database-learning.git
-cd bank-database-learning
+git clone https://github.com/Roumman/Graduation-project
